@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35697'
     url: http://www.gutenberg.org/2009/agents/35697
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32165#Venerable-Philippine-Duchesne--13-A-Brief-Sketch-of-the-Life-and-Work-of-the-Foundress-of-the_
 gutenberg_issued: '2010-04-28'
 gutenberg_type: Text
 identifiers:
